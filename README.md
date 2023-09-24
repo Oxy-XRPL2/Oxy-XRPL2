@@ -1,6 +1,6 @@
 - what u lookin for ?
 
-- oh, me ? hey there, i'm Xiera or just call me Xy
+- oh, me ? hey there, i'm <i> Xiera </i> or just call me <i> Xy </i>
 
 - also known as : Roux/Razor
 ______________________________________________________
